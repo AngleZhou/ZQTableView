@@ -1,6 +1,6 @@
 //
-//  ZQTableViewTests.m
-//  ZQTableViewTests
+//  ZQTableViewKitTests.m
+//  ZQTableViewKitTests
 //
 //  Created by Zhou Qian on 16/9/5.
 //  Copyright © 2016年 Zhou Qian. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface ZQTableViewTests : XCTestCase
+@interface ZQTableViewKitTests : XCTestCase
 
 @end
 
-@implementation ZQTableViewTests
+@implementation ZQTableViewKitTests
 
 - (void)setUp {
     [super setUp];

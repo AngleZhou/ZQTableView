@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ZQTableView.xcscheme</key>
+		<key>ZQTableViewKit.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>7C8028931D7D25330046D244</key>
+		<key>7C80296B1D7D64B60046D244</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7C8028AC1D7D25330046D244</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>7C8028B71D7D25330046D244</key>
+		<key>7C8029751D7D64B60046D244</key>
 		<dict>
 			<key>primary</key>
 			<true/>

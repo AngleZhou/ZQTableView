@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7C8028931D7D25330046D244"
-               BuildableName = "ZQTableView.app"
-               BlueprintName = "ZQTableView"
-               ReferencedContainer = "container:ZQTableView.xcodeproj">
+               BlueprintIdentifier = "7C80296B1D7D64B60046D244"
+               BuildableName = "ZQTableViewKit.framework"
+               BlueprintName = "ZQTableViewKit"
+               ReferencedContainer = "container:ZQTableViewKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7C8028AC1D7D25330046D244"
-               BuildableName = "ZQTableViewTests.xctest"
-               BlueprintName = "ZQTableViewTests"
-               ReferencedContainer = "container:ZQTableView.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7C8028B71D7D25330046D244"
-               BuildableName = "ZQTableViewUITests.xctest"
-               BlueprintName = "ZQTableViewUITests"
-               ReferencedContainer = "container:ZQTableView.xcodeproj">
+               BlueprintIdentifier = "7C8029751D7D64B60046D244"
+               BuildableName = "ZQTableViewKitTests.xctest"
+               BlueprintName = "ZQTableViewKitTests"
+               ReferencedContainer = "container:ZQTableViewKit.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7C8028931D7D25330046D244"
-            BuildableName = "ZQTableView.app"
-            BlueprintName = "ZQTableView"
-            ReferencedContainer = "container:ZQTableView.xcodeproj">
+            BlueprintIdentifier = "7C80296B1D7D64B60046D244"
+            BuildableName = "ZQTableViewKit.framework"
+            BlueprintName = "ZQTableViewKit"
+            ReferencedContainer = "container:ZQTableViewKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -71,16 +61,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7C8028931D7D25330046D244"
-            BuildableName = "ZQTableView.app"
-            BlueprintName = "ZQTableView"
-            ReferencedContainer = "container:ZQTableView.xcodeproj">
+            BlueprintIdentifier = "7C80296B1D7D64B60046D244"
+            BuildableName = "ZQTableViewKit.framework"
+            BlueprintName = "ZQTableViewKit"
+            ReferencedContainer = "container:ZQTableViewKit.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -90,16 +79,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7C8028931D7D25330046D244"
-            BuildableName = "ZQTableView.app"
-            BlueprintName = "ZQTableView"
-            ReferencedContainer = "container:ZQTableView.xcodeproj">
+            BlueprintIdentifier = "7C80296B1D7D64B60046D244"
+            BuildableName = "ZQTableViewKit.framework"
+            BlueprintName = "ZQTableViewKit"
+            ReferencedContainer = "container:ZQTableViewKit.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
